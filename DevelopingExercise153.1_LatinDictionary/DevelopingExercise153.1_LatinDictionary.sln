@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevelopingExercise153.1_LatinDictionary", "DevelopingExercise153.1_LatinDictionary\DevelopingExercise153.1_LatinDictionary.csproj", "{01EC2065-BC42-4F4D-9B49-4D0B01ADE91A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01EC2065-BC42-4F4D-9B49-4D0B01ADE91A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01EC2065-BC42-4F4D-9B49-4D0B01ADE91A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01EC2065-BC42-4F4D-9B49-4D0B01ADE91A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01EC2065-BC42-4F4D-9B49-4D0B01ADE91A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCA70923-3C40-4779-9EF6-7721136786E0}
+	EndGlobalSection
+EndGlobal
